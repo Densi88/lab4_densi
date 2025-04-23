@@ -5,6 +5,7 @@ namespace lab4_densi
         public Form1()
         {
             InitializeComponent();
+            List<Drinks> drinks = new List<Drinks>();
         }
     }
 }
